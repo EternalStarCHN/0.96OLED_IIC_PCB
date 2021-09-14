@@ -21,4 +21,4 @@
 | 0x76 | √ | × |
 (√表示接4.7K电阻后连接，×表示不连接)
 # 许可证
-0.96OLED_IIC_PCB is licensed under [BSD-3-Clause License](https://github.com/EternalStarCHN/0.96OLED_IIC_PCB/blob/main/LICENSE).
+0.96OLED_IIC_PCB is licensed under [GNU General Public License v3.0](https://github.com/EternalStarCHN/0.96OLED_IIC_PCB/blob/main/LICENSE).
